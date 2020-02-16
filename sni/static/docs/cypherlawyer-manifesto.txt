@@ -1,0 +1,31 @@
+                   A Cypherlawyer's Manifesto
+
+Cypherlawyers write legal code.  We know that someone has to write legal code
+to defend autonomy for our clients, and since we can't get autonomy unless we all do,
+we're going to write it. We publish our legal code so that our fellow
+Cypherlawyers may practice and play with it. Our legal code is free for all
+to use, worldwide.  We don't much care if you don't approve of the
+legal code we write.  We know that legal code can't be destroyed and that
+a widely dispersed system can't be shut down. 
+
+Cypherlawyers deplore regulations on cryptography, for encryption is
+fundamentally an autonomous act.  The act of encryption, in fact, removes
+information from the public realm.  Even laws against cryptography
+reach only so far as a nation's border and the arm of its violence.
+Cryptography will ineluctably spread over the whole globe, and with
+it the autonomous transactions systems that it makes possible. 
+
+For autonomy to be widespread it must be part of a social contract.
+People must come and together deploy these systems for the common
+good.  Autonomy only extends so far as the cooperation of one's
+fellows in society.  We the Cypherlawyers seek your questions and your
+legal concerns and hope we may engage you so that we do not deceive
+ourselves.  We will not, however, be moved out of our course because
+some may disagree with our goals.
+
+The Cypherlawyers are actively engaged in making the networks safer for
+autonomous individuals.  Let us proceed together apace.
+
+Onward.
+
+16 February 2020
